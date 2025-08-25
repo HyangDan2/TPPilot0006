@@ -9,7 +9,7 @@ Haze-aware Face & Eye Detection (Full, PySide6)
 - Menu: File/Tools/Help, Custom Kernel Editor Dialog(미리보기/정규화/적용)
 - Non-blocking: QThread worker + safe shutdown
 
-Author: ChatGPT for 오빠 (2025-08-26)
+Author: ChatGPT for HD2Lab
 """
 import sys, os, time, math, traceback
 import cv2
